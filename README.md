@@ -27,5 +27,6 @@ The refactored script was successful in reducing run times from the original scr
 
 ## Summary
 Refactoring is a way of restructuring and optimizing code WITHOUT changing its desired outputs.  Optimizing code is a great way to improve runtime performance.  Care must be taken that refactored code is still providing the same output even if it is running faster.    
+
 The original VBA script is easier to understand how the script is being executed.  The disadvantage is the script could become slow if large datasets are encountered.  The refactored code has the advantage of significantly faster runtimes with the same output.  
 
